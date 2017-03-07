@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Connector/Connector.iml" filepath="$PROJECT_DIR$/Connector/Connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SFSAndroidClient.iml" filepath="$PROJECT_DIR$/SFSAndroidClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleChat/SimpleChat.iml" filepath="$PROJECT_DIR$/SimpleChat/SimpleChat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tris/Tris.iml" filepath="$PROJECT_DIR$/Tris/Tris.iml" />
+    </modules>
+  </component>
+</project>

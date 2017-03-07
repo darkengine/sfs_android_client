@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The view used by the ListView to display the users. -->
+<TextView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:padding="5dp"
+	android:layout_marginLeft="10dp"
+	android:layout_height="wrap_content"
+	android:drawableLeft="@drawable/small_user_yellow"
+	android:gravity="center_vertical"/>

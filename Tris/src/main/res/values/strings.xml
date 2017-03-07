@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SFS2X: Tris</string>
+    <string name="connect_dialog_server_address">SmartFoxServer2X IP address:</string>
+    <string name="connect_dialog_server_port">SmartFoxServer2X port:</string>
+    <string name="hint_server_address">Server address</string>
+    <string name="hint_server_port">Server Port</string>
+    <string name="connect">Connect</string>
+    <string name="status">""Status: "</string>
+    <string name="connected">Connected</string>
+    <string name="connection_lost">Connection Lost</string>
+    <string name="dialog_connection_lost_message">Reason=%s</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="logged_into">Logged:</string>
+    <string name="joined_to_room">You have joined:</string>
+    <string name="example_zone">BasicExamples</string>
+    <string name="example_lobby">The Lobby</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="log_2points">Log:</string>
+    <string name="test">Test</string>
+    <string name="connecting">Connecting</string>
+    <string name="use_bluebox">Use Bluebox</string>
+    <string name="login">Login</string>
+    <string name="login_choose_user_name">Please enter your nick:</string>
+    <string name="users">Users</string>
+    <string name="chat">Chat</string>
+    <string name="send">Send</string>
+    <string name="games">Games</string>
+    <string name="create">Create</string>
+    <string name="click_to_exit">Click here to exit!</string>
+    <string name="message_wait_for_opponent">Waiting for opponent...</string>
+    <string name="exit">Exit</string>
+
+</resources>
